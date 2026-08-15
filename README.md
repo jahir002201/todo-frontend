@@ -80,17 +80,17 @@ This project provides a web interface for the FastAPI Todo API, including user r
 │  users                       │
 │  todos                       │
 └──────────────────────────────┘
-
-API
-Frontend
+```
+### API
+### Frontend
 http://localhost:3000
-FastAPI Backend
+## FastAPI Backend
 
-Production API:
+## Production API:
 
 https://fastapi-todo-api-p4ao.onrender.com
 
-FastAPI Swagger documentation:
+### FastAPI Swagger documentation:
 
 https://fastapi-todo-api-p4ao.onrender.com/docs
 Environment Variables
@@ -118,7 +118,7 @@ PUT	/todos/{todo_id}	Update a Todo
 DELETE	/todos/{todo_id}	Delete a Todo
 Installation
 
-Clone the repository:
+### Clone the repository:
 
 git clone <your-nextjs-repository-url>
 
@@ -139,16 +139,16 @@ npm run dev
 Open:
 
 http://localhost:3000
-FastAPI Backend
+## FastAPI Backend
 
-The frontend uses the following FastAPI backend:
+### The frontend uses the following FastAPI backend:
 
 https://fastapi-todo-api-p4ao.onrender.com
 
 Swagger API documentation:
 
 https://fastapi-todo-api-p4ao.onrender.com/docs
-Authentication Flow
+### Authentication Flow
 Register
    │
    ▼
@@ -229,21 +229,21 @@ Learning Goals
 
 This project is useful for learning:
 
-Next.js
+## Next.js
 React
 TypeScript
 App Router
 Tailwind CSS
-REST APIs
+## REST APIs
 JWT authentication
 Protected routes
 CRUD operations
 API integration
 Environment variables
-FastAPI + Next.js integration
+## FastAPI + Next.js integration
 Git
 GitHub
-Full-Stack Architecture
+### Full-Stack Architecture
 ┌───────────────────────┐
 │     Next.js App       │
 │   localhost:3000      │
@@ -275,6 +275,6 @@ Better form validation
 Improved JWT refresh handling
 Docker
 Production deployment
-License
+### License
 
-This project is for learning purposes.
+# This project is for learning purposes.
