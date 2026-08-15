@@ -171,9 +171,8 @@ Next.js Frontend
    ▼
 Protected Todo API
 
-Git
-
 ```
+# Git
 
 Initialize Git:
 
@@ -248,6 +247,7 @@ Environment variables
 Git
 GitHub
 ### Full-Stack Architecture
+```
 ┌───────────────────────┐
 │     Next.js App       │
 │   localhost:3000      │
@@ -267,6 +267,7 @@ GitHub
 │        SQLite         │
 │     users / todos     │
 └───────────────────────┘
+```
 Future Improvements
 Dark mode
 Todo search
