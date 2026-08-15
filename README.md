@@ -206,8 +206,8 @@ git commit -m "Update Todo frontend"
 git push
 .gitignore
 
-Make sure .gitignore contains:
-
+### Make sure .gitignore contains:
+```
 node_modules/
 .next/
 out/
@@ -216,21 +216,21 @@ out/
 .env.development.local
 .env.test.local
 .env.production.local
-
+```
 Do not commit private environment variables or node_modules.
 
 Production Build
 
-Create a production build:
+### Create a production build:
 
-npm run build
+```npm run build```
 
-Start the production server:
+### Start the production server:
 
-npm start
-Learning Goals
+```npm start```
+# Learning Goals
 
-This project is useful for learning:
+### This project is useful for learning:
 
 ## Next.js
 React
