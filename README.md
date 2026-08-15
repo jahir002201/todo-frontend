@@ -149,6 +149,7 @@ Swagger API documentation:
 
 https://fastapi-todo-api-p4ao.onrender.com/docs
 ### Authentication Flow
+```
 Register
    │
    ▼
@@ -169,7 +170,10 @@ Next.js Frontend
    │ Authorization: Bearer <access_token>
    ▼
 Protected Todo API
+
 Git
+
+```
 
 Initialize Git:
 
